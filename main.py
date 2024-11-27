@@ -53,6 +53,10 @@ def view_orders():
     conn.close()
 
 
+def complete_orders():
+
+
+
 # Графический интерфейс
 app = tk.Tk()
 app.title("Система управления заказами")
